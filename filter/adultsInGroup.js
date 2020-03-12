@@ -14,5 +14,4 @@ function adultsInGroup(group) {
 		}).map(adult => adult.name);
 	}
 	
-
 console.log(adultsInGroup(group));
