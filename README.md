@@ -12,6 +12,7 @@ map
 
 reduce
 
+misc folder (composite methods/solutions)
 
 ### To run: node javascript-file.js
 
