@@ -9,4 +9,4 @@ function factorial(n) {
     }
 }
 
-console.log(factorial(9));
+console.log(factorial(4));
