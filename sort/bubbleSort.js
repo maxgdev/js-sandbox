@@ -1,5 +1,6 @@
 // Bubble sort algorithm
-//
+// REVIEW 17/3/20
+
 function bubbleSort(inputArray){
     
     for(var outIndex = 0; outIndex < inputArray.length -1 ; outIndex++){
