@@ -13,7 +13,9 @@ const mergeSort = (arr) => {
 }
 
 const merge = (left, right) => {
-	let results = [];
+    let results = [];
+    // using left.length && right.length
+    // if either is 0 then false
 	while(left.length && right.length) {
 		if(left[0] <= right[0]){
 			results.push(left.shift())
